@@ -1,0 +1,24 @@
+{
+    "name": "media_streaming",
+    "version": "1.0.0",
+    "description": "",
+    "main": "App.js",
+    "scripts": {
+        "start": "nodemon ./App.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vmmaia/media_streaming.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vmmaia/media_streaming/issues"
+    },
+    "homepage": "https://github.com/vmmaia/media_streaming#readme",
+    "dependencies": {
+        "express": "^4.18.2",
+        "nodemon": "^2.0.20"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "serverPort": 8000,
+    "videoFilePath": "assets/02.mp4",
+    "chunkSizeInBytes": 1048576
+}
